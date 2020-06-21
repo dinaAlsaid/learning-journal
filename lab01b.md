@@ -24,6 +24,10 @@ This mindset is not expected to be natural for everyone, therefore it needs prac
 
 ## What are you gaining from this mindset? 
 
+Having this mindset will:
+1. help one keeep track of his/her work and meeting deadlines. 
+2. improve your skills and learn new things.
+3. help you gain expereince from others and from collegues.
 
 
 
