@@ -36,4 +36,4 @@ To read more about this [here](https://www.atlassian.com/blog/inside-atlassian/g
 ## Reflection 
 
 
-As a writer, too, i should remind myself of keeping a similar mindset, tolerate other people and learn from them and never underestimate anyone's capabalities including my own and never give up on trying to improve and learn new things.
+As a writer and as an engineer, too, I should remind myself of keeping a similar mindset, tolerate other people and learn from them and never underestimate anyone's capabalities including my own and tackle the challenges presented to me and always thrive to learn new things.
