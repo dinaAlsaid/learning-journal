@@ -18,3 +18,4 @@ these can be open source or purcahsed. some popular examples are: * Notepad++
 * Atom 
 * Sublime Text
 * VSCode
+**in the end you should choose the text editor based on your personal prefrence or the one you get most out of**
