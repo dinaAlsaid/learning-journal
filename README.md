@@ -13,9 +13,9 @@ where these things can be integrated with the page content and be presented nicl
 
 
 ### how to use it (language synatx)?
-* creating headers: add (#) before the header text 
+* creating headers: add # before the header text 
 * emphasising text : insert text between * to make the text italic
                       between ** to make the text bold
                       between *** to combine both
-* embedding code : use ('') for inline code and 4 spaces to create a code section for longer codes 
+* embedding code : use ' for inline code and 4 spaces to create a code section for longer codes 
 
