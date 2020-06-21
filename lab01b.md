@@ -32,3 +32,8 @@ Having this mindset will:
 
 
 To read more about this [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) is an article about the subject.
+
+## Reflection 
+
+
+As a writer, too, i should remind myself of keeping a similar mindset, tolerate other people and learn from them and never underestimate anyone's capabalities including my own and never give up on trying to improve and learn new things.
