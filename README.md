@@ -1,10 +1,11 @@
 # learning-journal
 
 ### what is markdown language ?
-it is a markup language that helps you add content to a web page and style it.
+
+It is a markup language that helps you add content to a web page and style it.
+
 
 ### what can you use markdown language for ?
-style text on the web using special characters/ symbols
 
 you can do basic styling like making the text bold , italic or underlined
 **and** embed things like codes, links or images on the web using special characters/ symbols
