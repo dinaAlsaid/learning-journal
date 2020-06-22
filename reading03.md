@@ -1,3 +1,4 @@
+[Home](https://dinaalsaid.github.io/learning-journal/)
 # Git and GitHub
 ### version control
 VCS allows you to keep versions of a file without creating new files or losing previous version of the file

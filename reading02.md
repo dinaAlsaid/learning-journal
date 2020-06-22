@@ -1,3 +1,4 @@
+[Home](https://dinaalsaid.github.io/learning-journal/)
 # text editors
 ## Definition and use
 text editors are applictions or softwares for writing and managing text that is used by alot of developers especially web developers. A text editor does not run or debug code, it only provides an environment for writing code that helps avoid errors or mistakes.
@@ -18,4 +19,5 @@ these can be open source or purcahsed. some popular examples are: * Notepad++
 * Atom 
 * Sublime Text
 * VSCode
+
 **in the end you should choose the text editor based on your personal prefrence or the one you get most out of**
