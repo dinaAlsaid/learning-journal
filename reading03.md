@@ -14,10 +14,26 @@ It is a website that is based on Git where you can upload your work to their ser
 ### working with Git and GitHub 
 #### snapshots 
 ```
-commit will modify the file ( add, remove or edit ) and create a new version.
+commit means saving a modified file ( add, remove or edit ) and create a snapshot or a new version of the file.
 ```
 
 #### local operations
+```
+Meaning, Git will depend on project's history on the local disk, therefore aloowing work offline.
+```
 #### tracking changes 
+```
+every change applied to any file or directory is tracked by Git.
+```
 #### loss of data
+```
+Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data.
+```
 #### states
+```
+provides three states for the files to keep track of everything.
+* committed : data is stored 
+* modified : change is not commited yet
+* staged : flaged file to be commited
+```
+
