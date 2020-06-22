@@ -1,3 +1,5 @@
+[Home](https://dinaalsaid.github.io/learning-journal/)
+
 # Growth Mindset
 
 ## What does it mean to have a Growth mindset?
