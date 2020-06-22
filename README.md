@@ -10,3 +10,9 @@ Subject|brief
 [Markdown language](https://dinaalsaid.github.io/learning-journal/reading01)|intro to markdown language
 [Text editors](https://dinaalsaid.github.io/learning-journal/reading02)|on how to choose asuitable text editor
 [Git tutorial](https://dinaalsaid.github.io/learning-journal/reading03)|getting started 
+
+TOC
+* [Growth mindset](https://dinaalsaid.github.io/learning-journal/lab01b)
+* [Markdown language](https://dinaalsaid.github.io/learning-journal/reading01)
+* [Text editors](https://dinaalsaid.github.io/learning-journal/reading02)
+* [Git tutorial](https://dinaalsaid.github.io/learning-journal/reading03)
