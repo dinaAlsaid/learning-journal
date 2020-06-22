@@ -13,6 +13,10 @@ It is a website that is based on Git where you can upload your work to their ser
 
 ### working with Git and GitHub 
 #### snapshots 
+''''
+commit will modify the file ( add, remove or edit ) and create a new version.
+''''
+
 #### local operations
 #### tracking changes 
 #### loss of data
