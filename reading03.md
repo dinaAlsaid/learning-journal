@@ -5,6 +5,7 @@ version control systems has three types:
 * local 
 * centralized
 * distributed
+
 ### Git
 git is a distributed version control system.
 
