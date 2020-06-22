@@ -1,3 +1,5 @@
+[Home](https://dinaalsaid.github.io/learning-journal/)
+
 # building websites 
 ## Getting started
 
@@ -33,52 +35,51 @@ when designing site navigation make sure the design is:
 **lastly** combine the content and the design using HTML to create the final pages layout.
 
 
-HTML5 layout elements
 
-How old browsers understand new elements
-```
+
+## How old browsers understand new elements
+
+addin the following lines to your CSS file and HTML file will solve the problem.
+```CSS
 header, section, footer, aside, nav, article, figure
 {
 display: block;}
 ```
-```
+```HTML
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/
 trunk/html5.js"></script>
 <![endif]-->
 ```
-js^
 
-Styling HTML5 layout elements with CSS
+## HTML5 layout elements
 
-ndicate the purpose of
-different parts of a web page and help to describe
-its structure.
-XX The new elements provide clearer code (compared
-with using multiple <div> elements).
-XX Older browsers that do not understand HTML5
-elements need to be told which elements are
-block-level elements.
-XX To make HTML5 elements work in Internet Explorer 8
-(and older versions of IE), extra JavaScript is needed,
-which is available free from Google.
+>The new elements introduced in HTML5 provide clearer code instead of having only one block element (div) . Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
 
-new elements (article section header footer fgcaption figure hgroup aside nav)
+* div and span
+* article
+* section
+* header and footer
+* fgcaption and figure
+* hgroup 
+* aside
+* nav
+* iframes
 
+## final notes
 
 
-
-DOCTYPES tell browsers which version of HTML you
+* DOCTYPES tell browsers which version of HTML you
 are using.
-XX You can add comments to your code between the
+* You can add comments to your code between the
 <!-- and --> markers.
-XX The id and class attributes allow you to identify
+* The id and class attributes allow you to identify
 particular elements.
-XX The <div> and <span> elements allow you to group
+* The <div> and <span> elements allow you to group
 block-level and inline elements together.
-XX <iframes> cut windows into your web pages through
+* <iframes> cut windows into your web pages through
 which other pages can be displayed.
-XX The <meta> tag allows you to supply all kinds of
+* The <meta> tag allows you to supply all kinds of
 information about your web page.
-XX Escape characters are used to include special
+* Escape characters are used to include special
 characters in your pages such as <, >, and ©.
