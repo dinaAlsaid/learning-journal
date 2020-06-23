@@ -11,11 +11,11 @@ using external CSS stylesheet will give you the advantage of applying the same s
 
 ## CSS selectors 
 types of selectors:
-* universal: ` * {} `
-* type: ` p, h1, div{} `
-* class: ` .className1 {} `
-* ID: ` #IDname1 {} `
-* child: ` li>a {} `
+* universal: `* {} `
+* type: `p, h1, div{} `
+* class: `.className1 {} `
+* ID: `#IDname1 {} `
+* child: `li>a {} `
 * descendant: `p a {} `
 
 ## Adding color
