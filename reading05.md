@@ -15,7 +15,7 @@ types of selectors:
 * type: `p, h1, div{} `
 * class: `.className1 {} `
 * ID: `#IDname1 {} `
-* child: `li>a {} `
+* child: `li >a {} `
 * descendant: `p a {} `
 
 ## Adding color
