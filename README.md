@@ -13,5 +13,5 @@ Subject|brief
 [Git tutorial](https://dinaalsaid.github.io/learning-journal/reading03)|getting started 
 [HTML tutorial](https://dinaalsaid.github.io/learning-journal/reading04)|designing a HTML page
 [CSS tutorial](https://dinaalsaid.github.io/learning-journal/reading05)| styling pages and color theory
-[CSS tutorial](https://dinaalsaid.github.io/learning-journal/reading06)|Hoe do computers work
+[Computers](https://dinaalsaid.github.io/learning-journal/reading06)|How do computers work
 
