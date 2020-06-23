@@ -17,3 +17,4 @@ TOC
 * [Text editors](https://dinaalsaid.github.io/learning-journal/reading02)
 * [Git tutorial](https://dinaalsaid.github.io/learning-journal/reading03)
 * [HTML tutorial](https://dinaalsaid.github.io/learning-journal/reading04)
+* [CSS tutorial](https://dinaalsaid.github.io/learning-journal/reading05)
