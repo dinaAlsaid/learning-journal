@@ -12,20 +12,20 @@ using external CSS stylesheet will give you the advantage of applying the same s
 ## CSS selectors 
 types of selectors:
 * universal: `* {} `
-* type: ` p, h1, div{}`
-* class: ` .className1 {}`
-* ID: ` #IDname1 {}`
-* child: `li>a {}`
-* descendant: `p a {}`
+* type: ` p, h1, div{} `
+* class: ` .className1 {} `
+* ID: ` #IDname1 {} `
+* child: `li>a {} `
+* descendant: `p a {} `
 
 ## Adding color
 when using color in you CSS code you can specify it in three ways: color name, RGB values, HSL vaules and Hex code.
 
 ### Color theory 101
 color is usualy described by 3 main things:
-hue: is the color blue, green...etc. ?
-saturation: how pure is the color?
-brightness: how much white or black is in the color?
+* hue: is the color blue, green...etc. ?
+* saturation: how pure is the color?
+* brightness: how much white or black is in the color?
 
 ![color](https://i.stack.imgur.com/PvK4n.png)
 
