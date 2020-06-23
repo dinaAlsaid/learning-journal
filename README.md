@@ -4,6 +4,7 @@
 This webpage is documentation of My learning journey in the software development BootCamp hosted by LTUC.
 
 ### what I have learned so far
+
 Subject|brief
 -------|-------
 [Growth mindset](https://dinaalsaid.github.io/learning-journal/lab01b)|tips to learn efficiently
