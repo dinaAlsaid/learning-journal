@@ -14,4 +14,6 @@ Subject|brief
 [HTML tutorial](https://dinaalsaid.github.io/learning-journal/reading04)|designing a HTML page
 [CSS tutorial](https://dinaalsaid.github.io/learning-journal/reading05)| styling pages and color theory
 [Computers](https://dinaalsaid.github.io/learning-journal/reading06)|How do computers work
+[Intro to JavaScript](https://dinaalsaid.github.io/learning-journal/reading07)|operators, expressions and Functions 
+
 
