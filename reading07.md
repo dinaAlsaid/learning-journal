@@ -1,6 +1,8 @@
 [Home](https://dinaalsaid.github.io/learning-journal/)
 
 # Introduction to JavaScript
+## Scripts 
+a script is a series of istructions that a computer can follow to achieve a goal.
 ## JavaScript and interactive content
 JavaScript makes the content of an HTML page interactive by:
 * accessing content in the HTML
