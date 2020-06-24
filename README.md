@@ -15,5 +15,7 @@ Subject|brief
 [CSS tutorial](https://dinaalsaid.github.io/learning-journal/reading05)| styling pages and color theory
 [Computers](https://dinaalsaid.github.io/learning-journal/reading06)|How do computers work
 [Intro to JavaScript](https://dinaalsaid.github.io/learning-journal/reading07)|operators, expressions and Functions 
+[Operators and loops](https://dinaalsaid.github.io/learning-journal/reading08)|for and while loops 
+
 
 
