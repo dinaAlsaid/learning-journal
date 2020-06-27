@@ -1,4 +1,7 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
+[previous](https://dinaalsaid.github.io/learning-journal/reading01) [Home](https://dinaalsaid.github.io/learning-journal/)
+ [next](https://dinaalsaid.github.io/learning-journal/reading03)
+
+
 # text editors
 ## Definition and use
 text editors are applictions or softwares for writing and managing text that is used by alot of developers especially web developers. A text editor does not run or debug code, it only provides an environment for writing code that helps avoid errors or mistakes.

@@ -1,4 +1,6 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
+[previous](https://dinaalsaid.github.io/learning-journal/reading06) [Home](https://dinaalsaid.github.io/learning-journal/)
+ [next](https://dinaalsaid.github.io/learning-journal/reading08)
+
 
 # Introduction to JavaScript
 ## Scripts 

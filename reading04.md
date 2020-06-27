@@ -1,4 +1,6 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
+[previous](https://dinaalsaid.github.io/learning-journal/reading03) [Home](https://dinaalsaid.github.io/learning-journal/)
+ [next](https://dinaalsaid.github.io/learning-journal/reading05)
+
 
 # building websites 
 ## Getting started

@@ -1,4 +1,6 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
+[previous](https://dinaalsaid.github.io/learning-journal/lab01b) [Home](https://dinaalsaid.github.io/learning-journal/)
+ [next](https://dinaalsaid.github.io/learning-journal/reading02)
+
 ### what is markdown language ?
 
 It is a markup language that helps you add content to a web page and style it.

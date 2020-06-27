@@ -1,4 +1,6 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
+[previous](https://dinaalsaid.github.io/learning-journal/reading02) [Home](https://dinaalsaid.github.io/learning-journal/)
+ [next](https://dinaalsaid.github.io/learning-journal/reading04)
+
 # Git and GitHub
 ### version control
 VCS allows you to keep versions of a file without creating new files or losing previous version of the file

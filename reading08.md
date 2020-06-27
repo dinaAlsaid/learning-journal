@@ -1,4 +1,4 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
+[previous](https://dinaalsaid.github.io/learning-journal/reading07) [Home](https://dinaalsaid.github.io/learning-journal/)
 
 # Operators and loops 
 
