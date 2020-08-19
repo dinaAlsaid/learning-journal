@@ -1,8 +1,12 @@
-[Home](https://dinaalsaid.github.io/learning-journal/)
-[Next page](https://dinaalsaid.github.io/learning-journal/reading01)
-# Growth Mindset
+# Code 102
 
-## What does it mean to have a Growth mindset?
+[Home](https://dinaalsaid.github.io/reading-notes/)
+[Next page](https://dinaalsaid.github.io/learning-journal/reading01)
+
+## Growth Mindset
+
+## What does it mean to have a Growth mindset
+
 having a growth mindset means that the person beleives that learning something is not bounded by the person having intelegence or talent -even if it gives a good headstart- but is dependent on the drive to learn and continuous effort.
 
 On contrast, a fixed mindset believes that in order to achieve anything or to learn something new you have got to have a natural talent or a certain level of intellegence therefore giving up on learning new thing just because they do not see themselves as a good fit.
@@ -13,29 +17,26 @@ The following figure highlights the contarsting mindsets when presented with pro
 
 ## Adapting to the growth mindset
 
-#### In order to have a growth mindset one should do the following:
+### In order to have a growth mindset one should do the following
+
 * **Embrace** the challenges instead of avoiding them.
 * **Presist** when obstacles present themselves instead of losing focus.
 * Admit that **effort** is needed even if sometimes it feels like it is useless.
-* **Learn** from given critisism and do not ignore it 
+* **Learn** from given critisism and do not ignore it
 * Remember that the success of others should be considered as an **inspiration** not as a threat.
 
 This mindset is not expected to be natural for everyone, therefore it needs practice and time to convert a fixed mindset to a growth mindset.
 
-
-
-## What are you gaining from this mindset? 
+## What are you gaining from this mindset
 
 Having this mindset will:
-1. help one keeep track of his/her work and meeting deadlines. 
+
+1. help one keeep track of his/her work and meeting deadlines.
 2. improve your skills and learn new things.
 3. help you gain expereince from others and from collegues.
 
-
-
 To read more about this [here](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) is an article about the subject.
 
-## Reflection 
-
+## Reflection
 
 As a writer and as an engineer, too, I should remind myself of keeping a similar mindset, tolerate other people and learn from them and never underestimate anyone's capabalities including my own and tackle the challenges presented to me and always thrive to learn new things.

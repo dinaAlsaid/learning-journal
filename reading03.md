@@ -1,45 +1,61 @@
-[previous](https://dinaalsaid.github.io/learning-journal/reading02) [Home](https://dinaalsaid.github.io/learning-journal/)
- [next](https://dinaalsaid.github.io/learning-journal/reading04)
+# Code 102
 
-# Git and GitHub
+[previous](https://dinaalsaid.github.io/learning-journal/reading02)
+[Home](https://dinaalsaid.github.io/reading-notes/)
+[next](https://dinaalsaid.github.io/learning-journal/reading04)
+
+## Git and GitHub
+
 ### version control
+
 VCS allows you to keep versions of a file without creating new files or losing previous version of the file
 version control systems has three types:
-* local 
+
+* local
 * centralized
 * distributed
 
 ### Git
+
 git is a distributed version control system.
 
-### GitHub 
+### GitHub
+
 It is a website that is based on Git where you can upload your work to their servers and share it with other developers where they can also collaborate with you on projects.
 
-### working with Git and GitHub 
-#### snapshots 
+### working with Git and GitHub
+
+#### snapshots
+
 ```
-commit means saving a modified file ( add, remove or edit ) and create a 
+commit means saving a modified file ( add, remove or edit ) and create a
 snapshot or a new version of the file.
 ```
 
 #### local operations
+
 ```
 Meaning, Git will depend on project's history on the local disk, therefore aloowing work offline.
 ```
-#### tracking changes 
+
+#### tracking changes
+
 ```
 every change applied to any file or directory is tracked by Git.
 ```
+
 #### loss of data
+
 ```
-Git is set up to greatly minimize the possibility of irreversible damage to 
+Git is set up to greatly minimize the possibility of irreversible damage to
 files, such as accidentally lost data.
 ```
+
 #### states
+
 ```
 provides three states for the files to keep track of everything.
-* committed : data is stored 
+* committed : data is stored
 * modified : change is not commited yet
 * staged : flaged file to be commited
 ```
-

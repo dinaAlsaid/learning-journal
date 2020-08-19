@@ -1,4 +1,4 @@
-# learning-journal
+# Code 102
 
 [HOME](https://dinaalsaid.github.io/reading-notes/)
 
